@@ -1,0 +1,23 @@
+
+.CreatePost__head, .CreatePost__footer {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 1rem;
+}
+
+.CreatePost__wrap {
+    width: 30rem;
+    margin: 1rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    border: 1px solid black;
+}
+
+input {
+    width: 100%;
+}
+
+.CreatePost__content {
+    box-sizing: border-box;
+    padding: 1rem;
+}
